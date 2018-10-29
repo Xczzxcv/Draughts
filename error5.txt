@@ -1,0 +1,603 @@
+mem_fr: 0028f694|0028f694->00ff08e0->00fff100->00fff1c0->
+mem_fr: 0028f6a8|0028f6a8->00fff280->00fff2a0->00fff2c0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff2a0|00fff2a0->00fff280->00fff1c0->
+mem_fr: 00ff09a0|00ff09a0->00fff2c0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff160->00fff220->
+mem_fr: 0028f6a8|0028f6a8->00fff2e0->00fff300->00fff320->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff300|00fff300->00fff2e0->00fff220->
+mem_fr: 00ff09a0|00ff09a0->00fff320->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff1c0->00fff280->
+mem_fr: 0028f6a8|0028f6a8->00fff340->00fff360->00fff380->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff360|00fff360->00fff340->00fff280->
+mem_fr: 00ff09a0|00ff09a0->00fff380->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff220->00fff2e0->
+mem_fr: 0028f6a8|0028f6a8->00fff3a0->00fff3c0->00fff3e0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff3c0|00fff3c0->00fff3a0->00fff2e0->
+mem_fr: 00ff09a0|00ff09a0->00fff3e0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff280->00fff340->
+mem_fr: 0028f6a8|0028f6a8->00fff400->00fff420->00fff440->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff420|00fff420->00fff400->00fff340->
+mem_fr: 00ff09a0|00ff09a0->00fff440->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff2e0->00fff3a0->
+mem_fr: 0028f6a8|0028f6a8->00fff460->00fff480->00fff4a0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff480|00fff480->00fff460->00fff3a0->
+mem_fr: 00ff09a0|00ff09a0->00fff4a0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff340->00fff400->
+mem_fr: 0028f6a8|0028f6a8->00fff4c0->00fff4e0->00fff500->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff4e0|00fff4e0->00fff4c0->00fff400->
+mem_fr: 00ff09a0|00ff09a0->00fff500->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff3a0->00fff460->
+mem_fr: 0028f6a8|0028f6a8->00fff520->00fff540->00fff560->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff540|00fff540->00fff520->00fff460->
+mem_fr: 00ff09a0|00ff09a0->00fff560->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff400->00fff4c0->
+mem_fr: 0028f6a8|0028f6a8->00fff580->00fff5a0->00fff5c0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff5a0|00fff5a0->00fff580->00fff4c0->
+mem_fr: 00ff09a0|00ff09a0->00fff5c0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff460->00fff520->
+mem_fr: 0028f6a8|0028f6a8->00fff5e0->00fff600->00fff620->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff600|00fff600->00fff5e0->00fff520->
+mem_fr: 00ff09a0|00ff09a0->00fff620->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff4c0->00fff580->
+mem_fr: 0028f6a8|0028f6a8->00fff640->00fff660->00fff680->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff660|00fff660->00fff640->00fff580->
+mem_fr: 00ff09a0|00ff09a0->00fff680->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff520->00fff5e0->
+mem_fr: 0028f6a8|0028f6a8->00fff6a0->00fff6c0->00fff6e0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff6c0|00fff6c0->00fff6a0->00fff5e0->
+mem_fr: 00ff09a0|00ff09a0->00fff6e0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff580->00fff640->
+mem_fr: 0028f6a8|0028f6a8->00fff700->00fff720->00fff740->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff720|00fff720->00fff700->00fff640->
+mem_fr: 00ff09a0|00ff09a0->00fff740->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff5e0->00fff6a0->
+mem_fr: 0028f6a8|0028f6a8->00fff760->00fff780->00fff7a0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff780|00fff780->00fff760->00fff6a0->
+mem_fr: 00ff09a0|00ff09a0->00fff7a0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff640->00fff700->
+mem_fr: 0028f6a8|0028f6a8->00fff7c0->00fff7e0->00fff800->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff7e0|00fff7e0->00fff7c0->00fff700->
+mem_fr: 00ff09a0|00ff09a0->00fff800->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff6a0->00fff760->
+mem_fr: 0028f6a8|0028f6a8->00fff820->00fff840->00fff860->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff840|00fff840->00fff820->00fff760->
+mem_fr: 00ff09a0|00ff09a0->00fff860->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff700->00fff7c0->
+mem_fr: 0028f6a8|0028f6a8->00fff880->00fff8a0->00fff8c0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff8a0|00fff8a0->00fff880->00fff7c0->
+mem_fr: 00ff09a0|00ff09a0->00fff8c0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff760->00fff820->
+mem_fr: 0028f6a8|0028f6a8->00fff8e0->00fff900->00fff920->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff900|00fff900->00fff8e0->00fff820->
+mem_fr: 00ff09a0|00ff09a0->00fff920->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff7c0->00fff880->
+mem_fr: 0028f6a8|0028f6a8->00fff940->00fff960->00fff980->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff960|00fff960->00fff940->00fff880->
+mem_fr: 00ff09a0|00ff09a0->00fff980->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff820->00fff8e0->
+mem_fr: 0028f6a8|0028f6a8->00fff9a0->00fff9c0->00fff9e0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fff9c0|00fff9c0->00fff9a0->00fff8e0->
+mem_fr: 00ff09a0|00ff09a0->00fff9e0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff880->00fff940->
+mem_fr: 0028f6a8|0028f6a8->00fffa00->00fffa20->00fffa40->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffa20|00fffa20->00fffa00->00fff940->
+mem_fr: 00ff09a0|00ff09a0->00fffa40->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff8e0->00fff9a0->
+mem_fr: 0028f6a8|0028f6a8->00fffa60->00fffa80->00fffaa0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffa80|00fffa80->00fffa60->00fff9a0->
+mem_fr: 00ff09a0|00ff09a0->00fffaa0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff940->00fffa00->
+mem_fr: 0028f6a8|0028f6a8->00fffac0->00fffae0->00fffb00->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffae0|00fffae0->00fffac0->00fffa00->
+mem_fr: 00ff09a0|00ff09a0->00fffb00->
+mem_fr: 0028f694|0028f694->00ff08e0->00fff9a0->00fffa60->
+mem_fr: 0028f6a8|0028f6a8->00fffb20->00fffb40->00fffb60->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffb40|00fffb40->00fffb20->00fffa60->
+mem_fr: 00ff09a0|00ff09a0->00fffb60->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffa00->00fffac0->
+mem_fr: 0028f6a8|0028f6a8->00fffb80->00fffba0->00fffbc0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffba0|00fffba0->00fffb80->00fffac0->
+mem_fr: 00ff09a0|00ff09a0->00fffbc0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffa60->00fffb20->
+mem_fr: 0028f6a8|0028f6a8->00fffbe0->00fffc00->00fffc20->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffc00|00fffc00->00fffbe0->00fffb20->
+mem_fr: 00ff09a0|00ff09a0->00fffc20->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffac0->00fffb80->
+mem_fr: 0028f6a8|0028f6a8->00fffc40->00fffc60->00fffc80->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffc60|00fffc60->00fffc40->00fffb80->
+mem_fr: 00ff09a0|00ff09a0->00fffc80->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffb20->00fffbe0->
+mem_fr: 0028f6a8|0028f6a8->00fffca0->00fffcc0->00fffce0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffcc0|00fffcc0->00fffca0->00fffbe0->
+mem_fr: 00ff09a0|00ff09a0->00fffce0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffb80->00fffc40->
+mem_fr: 0028f6a8|0028f6a8->00fffd00->00fffd20->00fffd40->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffd20|00fffd20->00fffd00->00fffc40->
+mem_fr: 00ff09a0|00ff09a0->00fffd40->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffbe0->00fffca0->
+mem_fr: 0028f6a8|0028f6a8->00fffd60->00fffd80->00fffda0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffd80|00fffd80->00fffd60->00fffca0->
+mem_fr: 00ff09a0|00ff09a0->00fffda0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffc40->00fffd00->
+mem_fr: 0028f6a8|0028f6a8->00fffdc0->00fffde0->00fffe00->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffde0|00fffde0->00fffdc0->00fffd00->
+mem_fr: 00ff09a0|00ff09a0->00fffe00->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffca0->00fffd60->
+mem_fr: 0028f6a8|0028f6a8->00fffe20->00fffe40->00fffe60->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffe40|00fffe40->00fffe20->00fffd60->
+mem_fr: 00ff09a0|00ff09a0->00fffe60->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffd00->00fffdc0->
+mem_fr: 0028f6a8|0028f6a8->00fffe80->00fffea0->00fffec0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00fffea0|00fffea0->00fffe80->00fffdc0->
+mem_fr: 00ff09a0|00ff09a0->00fffec0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffd60->00fffe20->
+mem_fr: 0028f6a8|0028f6a8->00fffee0->00ffff00->00ffff20->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00ffff00|00ffff00->00fffee0->00fffe20->
+mem_fr: 00ff09a0|00ff09a0->00ffff20->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffdc0->00fffe80->
+mem_fr: 0028f6a8|0028f6a8->00ffff40->00ffff60->00ffff80->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00ffff60|00ffff60->00ffff40->00fffe80->
+mem_fr: 00ff09a0|00ff09a0->00ffff80->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffe20->00fffee0->
+mem_fr: 0028f6a8|0028f6a8->00ffffa0->00ffffc0->00ffffe0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 00ffffc0|00ffffc0->00ffffa0->00fffee0->
+mem_fr: 00ff09a0|00ff09a0->00ffffe0->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffe80->00ffff40->
+mem_fr: 0028f6a8|0028f6a8->01000000->01000020->01000040->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000020|01000020->01000000->00ffff40->
+mem_fr: 00ff09a0|00ff09a0->01000040->
+mem_fr: 0028f694|0028f694->00ff08e0->00fffee0->00ffffa0->
+mem_fr: 0028f6a8|0028f6a8->01000060->01000080->010000a0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000080|01000080->01000060->00ffffa0->
+mem_fr: 00ff09a0|00ff09a0->010000a0->
+mem_fr: 0028f694|0028f694->00ff08e0->00ffff40->01000000->
+mem_fr: 0028f6a8|0028f6a8->010000c0->010000e0->01000100->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010000e0|010000e0->010000c0->01000000->
+mem_fr: 00ff09a0|00ff09a0->01000100->
+mem_fr: 0028f694|0028f694->00ff08e0->00ffffa0->01000060->
+mem_fr: 0028f6a8|0028f6a8->01000120->01000140->01000160->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000140|01000140->01000120->01000060->
+mem_fr: 00ff09a0|00ff09a0->01000160->
+mem_fr: 0028f694|0028f694->00ff08e0->01000000->010000c0->
+mem_fr: 0028f6a8|0028f6a8->01000180->010001a0->010001c0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010001a0|010001a0->01000180->010000c0->
+mem_fr: 00ff09a0|00ff09a0->010001c0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000060->01000120->
+mem_fr: 0028f6a8|0028f6a8->010001e0->01000200->01000220->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000200|01000200->010001e0->01000120->
+mem_fr: 00ff09a0|00ff09a0->01000220->
+mem_fr: 0028f694|0028f694->00ff08e0->010000c0->01000180->
+mem_fr: 0028f6a8|0028f6a8->01000240->01000260->01000280->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000260|01000260->01000240->01000180->
+mem_fr: 00ff09a0|00ff09a0->01000280->
+mem_fr: 0028f694|0028f694->00ff08e0->01000120->010001e0->
+mem_fr: 0028f6a8|0028f6a8->010002a0->010002c0->010002e0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010002c0|010002c0->010002a0->010001e0->
+mem_fr: 00ff09a0|00ff09a0->010002e0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000180->01000240->
+mem_fr: 0028f6a8|0028f6a8->01000300->01000320->01000340->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000320|01000320->01000300->01000240->
+mem_fr: 00ff09a0|00ff09a0->01000340->
+mem_fr: 0028f694|0028f694->00ff08e0->010001e0->010002a0->
+mem_fr: 0028f6a8|0028f6a8->01000360->01000380->010003a0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000380|01000380->01000360->010002a0->
+mem_fr: 00ff09a0|00ff09a0->010003a0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000240->01000300->
+mem_fr: 0028f6a8|0028f6a8->010003c0->010003e0->01000400->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010003e0|010003e0->010003c0->01000300->
+mem_fr: 00ff09a0|00ff09a0->01000400->
+mem_fr: 0028f694|0028f694->00ff08e0->010002a0->01000360->
+mem_fr: 0028f6a8|0028f6a8->01000420->01000440->01000460->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000440|01000440->01000420->01000360->
+mem_fr: 00ff09a0|00ff09a0->01000460->
+mem_fr: 0028f694|0028f694->00ff08e0->01000300->010003c0->
+mem_fr: 0028f6a8|0028f6a8->01000480->010004a0->010004c0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010004a0|010004a0->01000480->010003c0->
+mem_fr: 00ff09a0|00ff09a0->010004c0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000360->01000420->
+mem_fr: 0028f6a8|0028f6a8->010004e0->01000500->01000520->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000500|01000500->010004e0->01000420->
+mem_fr: 00ff09a0|00ff09a0->01000520->
+mem_fr: 0028f694|0028f694->00ff08e0->010003c0->01000480->
+mem_fr: 0028f6a8|0028f6a8->01000540->01000560->01000580->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000560|01000560->01000540->01000480->
+mem_fr: 00ff09a0|00ff09a0->01000580->
+mem_fr: 0028f694|0028f694->00ff08e0->01000420->010004e0->
+mem_fr: 0028f6a8|0028f6a8->010005a0->010005c0->010005e0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010005c0|010005c0->010005a0->010004e0->
+mem_fr: 00ff09a0|00ff09a0->010005e0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000480->01000540->
+mem_fr: 0028f6a8|0028f6a8->01000600->01000620->01000640->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000620|01000620->01000600->01000540->
+mem_fr: 00ff09a0|00ff09a0->01000640->
+mem_fr: 0028f694|0028f694->00ff08e0->010004e0->010005a0->
+mem_fr: 0028f6a8|0028f6a8->01000660->01000680->010006a0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000680|01000680->01000660->010005a0->
+mem_fr: 00ff09a0|00ff09a0->010006a0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000540->01000600->
+mem_fr: 0028f6a8|0028f6a8->010006c0->010006e0->01000700->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010006e0|010006e0->010006c0->01000600->
+mem_fr: 00ff09a0|00ff09a0->01000700->
+mem_fr: 0028f694|0028f694->00ff08e0->010005a0->01000660->
+mem_fr: 0028f6a8|0028f6a8->01000720->01000740->01000760->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000740|01000740->01000720->01000660->
+mem_fr: 00ff09a0|00ff09a0->01000760->
+mem_fr: 0028f694|0028f694->00ff08e0->01000600->010006c0->
+mem_fr: 0028f6a8|0028f6a8->01000780->010007a0->010007c0->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010007a0|010007a0->01000780->010006c0->
+mem_fr: 00ff09a0|00ff09a0->010007c0->
+mem_fr: 0028f694|0028f694->00ff08e0->01000660->01000720->
+mem_fr: 0028f6a8|0028f6a8->010007e0->01000800->01000820->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 01000800|01000800->010007e0->01000720->
+mem_fr: 00ff09a0|00ff09a0->01000820->
+mem_fr: 0028f694|0028f694->00ff08e0->010006c0->01000780->
+mem_fr: 0028f6a8|0028f6a8->00fe09a0->00fc05a0->00fd0560->
+mem_fr: 0028f6bc|0028f6bc->00ff09a0->
+mem_fr: 010006c0|010006c0->00ff08e0->01000720->
+mem_fr: 00ff09a0|00ff09a0->01000780->
+mem_fr: 0028f694|0028f694->01000800->00fc05a0->00fd0560->
+mem_fr: 0028f6a8|0028f6a8->
+Process returned -1073741819 (0xC0000005)   execution time : 3633.441 s
+Press any key to continue.
+
+
+
+
+
+84562 0 m_fr: 0028f694|0028f694->00ff0060->00ffe900->00ffe9c0->
+84562 1 m_fr: 0028f6a8|0028f6a8->00ffea80->00ffeaa0->00ffeac0->
+84562 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffeaa0|00ffeaa0->00ffea80->00ffe9c0->
+m_fr: 00ff01a0|00ff01a0->00ffeac0->
+84563 0 m_fr: 0028f694|0028f694->00ff0060->00ffe960->00ffea20->
+84563 1 m_fr: 0028f6a8|0028f6a8->00ffeae0->00ffeb00->00ffeb20->
+84563 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffeb00|00ffeb00->00ffeae0->00ffea20->
+m_fr: 00ff01a0|00ff01a0->00ffeb20->
+84564 0 m_fr: 0028f694|0028f694->00ff0060->00ffe9c0->00ffea80->
+84564 1 m_fr: 0028f6a8|0028f6a8->00ffeb40->00ffeb60->00ffeb80->
+84564 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffeb60|00ffeb60->00ffeb40->00ffea80->
+m_fr: 00ff01a0|00ff01a0->00ffeb80->
+84565 0 m_fr: 0028f694|0028f694->00ff0060->00ffea20->00ffeae0->
+84565 1 m_fr: 0028f6a8|0028f6a8->00ffeba0->00ffebc0->00ffebe0->
+84565 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffebc0|00ffebc0->00ffeba0->00ffeae0->
+m_fr: 00ff01a0|00ff01a0->00ffebe0->
+84566 0 m_fr: 0028f694|0028f694->00ff0060->00ffea80->00ffeb40->
+84566 1 m_fr: 0028f6a8|0028f6a8->00ffec00->00ffec20->00ffec40->
+84566 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffec20|00ffec20->00ffec00->00ffeb40->
+m_fr: 00ff01a0|00ff01a0->00ffec40->
+84567 0 m_fr: 0028f694|0028f694->00ff0060->00ffeae0->00ffeba0->
+84567 1 m_fr: 0028f6a8|0028f6a8->00ffec60->00ffec80->00ffeca0->
+84567 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffec80|00ffec80->00ffec60->00ffeba0->
+m_fr: 00ff01a0|00ff01a0->00ffeca0->
+84568 0 m_fr: 0028f694|0028f694->00ff0060->00ffeb40->00ffec00->
+84568 1 m_fr: 0028f6a8|0028f6a8->00ffecc0->00ffece0->00ffed00->
+84568 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffece0|00ffece0->00ffecc0->00ffec00->
+m_fr: 00ff01a0|00ff01a0->00ffed00->
+84569 0 m_fr: 0028f694|0028f694->00ff0060->00ffeba0->00ffec60->
+84569 1 m_fr: 0028f6a8|0028f6a8->00ffed20->00ffed40->00ffed60->
+84569 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffed40|00ffed40->00ffed20->00ffec60->
+m_fr: 00ff01a0|00ff01a0->00ffed60->
+84570 0 m_fr: 0028f694|0028f694->00ff0060->00ffec00->00ffecc0->
+84570 1 m_fr: 0028f6a8|0028f6a8->00ffed80->00ffeda0->00ffedc0->
+84570 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffeda0|00ffeda0->00ffed80->00ffecc0->
+m_fr: 00ff01a0|00ff01a0->00ffedc0->
+84571 0 m_fr: 0028f694|0028f694->00ff0060->00ffec60->00ffed20->
+84571 1 m_fr: 0028f6a8|0028f6a8->00ffede0->00ffee00->00ffee20->
+84571 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffee00|00ffee00->00ffede0->00ffed20->
+m_fr: 00ff01a0|00ff01a0->00ffee20->
+84572 0 m_fr: 0028f694|0028f694->00ff0060->00ffecc0->00ffed80->
+84572 1 m_fr: 0028f6a8|0028f6a8->00ffee40->00ffee60->00ffee80->
+84572 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffee60|00ffee60->00ffee40->00ffed80->
+m_fr: 00ff01a0|00ff01a0->00ffee80->
+84573 0 m_fr: 0028f694|0028f694->00ff0060->00ffed20->00ffede0->
+84573 1 m_fr: 0028f6a8|0028f6a8->00ffeea0->00ffeec0->00ffeee0->
+84573 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffeec0|00ffeec0->00ffeea0->00ffede0->
+m_fr: 00ff01a0|00ff01a0->00ffeee0->
+84574 0 m_fr: 0028f694|0028f694->00ff0060->00ffed80->00ffee40->
+84574 1 m_fr: 0028f6a8|0028f6a8->00ffef00->00ffef20->00ffef40->
+84574 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffef20|00ffef20->00ffef00->00ffee40->
+m_fr: 00ff01a0|00ff01a0->00ffef40->
+84575 0 m_fr: 0028f694|0028f694->00ff0060->00ffede0->00ffeea0->
+84575 1 m_fr: 0028f6a8|0028f6a8->00ffef60->00ffef80->00ffefa0->
+84575 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffef80|00ffef80->00ffef60->00ffeea0->
+m_fr: 00ff01a0|00ff01a0->00ffefa0->
+84576 0 m_fr: 0028f694|0028f694->00ff0060->00ffee40->00ffef00->
+84576 1 m_fr: 0028f6a8|0028f6a8->00ffefc0->00ffefe0->00fff000->
+84576 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffefe0|00ffefe0->00ffefc0->00ffef00->
+m_fr: 00ff01a0|00ff01a0->00fff000->
+84577 0 m_fr: 0028f694|0028f694->00ff0060->00ffeea0->00ffef60->
+84577 1 m_fr: 0028f6a8|0028f6a8->00fff020->00fff040->00fff060->
+84577 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff040|00fff040->00fff020->00ffef60->
+m_fr: 00ff01a0|00ff01a0->00fff060->
+84578 0 m_fr: 0028f694|0028f694->00ff0060->00ffef00->00ffefc0->
+84578 1 m_fr: 0028f6a8|0028f6a8->00fff080->00fff0a0->00fff0c0->
+84578 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff0a0|00fff0a0->00fff080->00ffefc0->
+m_fr: 00ff01a0|00ff01a0->00fff0c0->
+84579 0 m_fr: 0028f694|0028f694->00ff0060->00ffef60->00fff020->
+84579 1 m_fr: 0028f6a8|0028f6a8->00fff0e0->00fff100->00fff120->
+84579 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff100|00fff100->00fff0e0->00fff020->
+m_fr: 00ff01a0|00ff01a0->00fff120->
+84580 0 m_fr: 0028f694|0028f694->00ff0060->00ffefc0->00fff080->
+84580 1 m_fr: 0028f6a8|0028f6a8->00fff140->00fff160->00fff180->
+84580 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff160|00fff160->00fff140->00fff080->
+m_fr: 00ff01a0|00ff01a0->00fff180->
+84581 0 m_fr: 0028f694|0028f694->00ff0060->00fff020->00fff0e0->
+84581 1 m_fr: 0028f6a8|0028f6a8->00fff1a0->00fff1c0->00fff1e0->
+84581 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff1c0|00fff1c0->00fff1a0->00fff0e0->
+m_fr: 00ff01a0|00ff01a0->00fff1e0->
+84582 0 m_fr: 0028f694|0028f694->00ff0060->00fff080->00fff140->
+84582 1 m_fr: 0028f6a8|0028f6a8->00fff200->00fff220->00fff240->
+84582 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff220|00fff220->00fff200->00fff140->
+m_fr: 00ff01a0|00ff01a0->00fff240->
+84583 0 m_fr: 0028f694|0028f694->00ff0060->00fff0e0->00fff1a0->
+84583 1 m_fr: 0028f6a8|0028f6a8->00fff260->00fff280->00fff2a0->
+84583 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff280|00fff280->00fff260->00fff1a0->
+m_fr: 00ff01a0|00ff01a0->00fff2a0->
+84584 0 m_fr: 0028f694|0028f694->00ff0060->00fff140->00fff200->
+84584 1 m_fr: 0028f6a8|0028f6a8->00fff2c0->00fff2e0->00fff300->
+84584 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff2e0|00fff2e0->00fff2c0->00fff200->
+m_fr: 00ff01a0|00ff01a0->00fff300->
+84585 0 m_fr: 0028f694|0028f694->00ff0060->00fff1a0->00fff260->
+84585 1 m_fr: 0028f6a8|0028f6a8->00fff320->00fff340->00fff360->
+84585 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff340|00fff340->00fff320->00fff260->
+m_fr: 00ff01a0|00ff01a0->00fff360->
+84586 0 m_fr: 0028f694|0028f694->00ff0060->00fff200->00fff2c0->
+84586 1 m_fr: 0028f6a8|0028f6a8->00fff380->00fff3a0->00fff3c0->
+84586 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff3a0|00fff3a0->00fff380->00fff2c0->
+m_fr: 00ff01a0|00ff01a0->00fff3c0->
+84587 0 m_fr: 0028f694|0028f694->00ff0060->00fff260->00fff320->
+84587 1 m_fr: 0028f6a8|0028f6a8->00fff3e0->00fff400->00fff420->
+84587 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff400|00fff400->00fff3e0->00fff320->
+m_fr: 00ff01a0|00ff01a0->00fff420->
+84588 0 m_fr: 0028f694|0028f694->00ff0060->00fff2c0->00fff380->
+84588 1 m_fr: 0028f6a8|0028f6a8->00fff440->00fff460->00fff480->
+84588 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff460|00fff460->00fff440->00fff380->
+m_fr: 00ff01a0|00ff01a0->00fff480->
+84589 0 m_fr: 0028f694|0028f694->00ff0060->00fff320->00fff3e0->
+84589 1 m_fr: 0028f6a8|0028f6a8->00fff4a0->00fff4c0->00fff4e0->
+84589 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff4c0|00fff4c0->00fff4a0->00fff3e0->
+m_fr: 00ff01a0|00ff01a0->00fff4e0->
+84590 0 m_fr: 0028f694|0028f694->00ff0060->00fff380->00fff440->
+84590 1 m_fr: 0028f6a8|0028f6a8->00fff500->00fff520->00fff540->
+84590 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff520|00fff520->00fff500->00fff440->
+m_fr: 00ff01a0|00ff01a0->00fff540->
+84591 0 m_fr: 0028f694|0028f694->00ff0060->00fff3e0->00fff4a0->
+84591 1 m_fr: 0028f6a8|0028f6a8->00fff560->00fff580->00fff5a0->
+84591 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff580|00fff580->00fff560->00fff4a0->
+m_fr: 00ff01a0|00ff01a0->00fff5a0->
+84592 0 m_fr: 0028f694|0028f694->00ff0060->00fff440->00fff500->
+84592 1 m_fr: 0028f6a8|0028f6a8->00fff5c0->00fff5e0->00fff600->
+84592 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff5e0|00fff5e0->00fff5c0->00fff500->
+m_fr: 00ff01a0|00ff01a0->00fff600->
+84593 0 m_fr: 0028f694|0028f694->00ff0060->00fff4a0->00fff560->
+84593 1 m_fr: 0028f6a8|0028f6a8->00fff620->00fff640->00fff660->
+84593 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff640|00fff640->00fff620->00fff560->
+m_fr: 00ff01a0|00ff01a0->00fff660->
+84594 0 m_fr: 0028f694|0028f694->00ff0060->00fff500->00fff5c0->
+84594 1 m_fr: 0028f6a8|0028f6a8->00fff680->00fff6a0->00fff6c0->
+84594 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff6a0|00fff6a0->00fff680->00fff5c0->
+m_fr: 00ff01a0|00ff01a0->00fff6c0->
+84595 0 m_fr: 0028f694|0028f694->00ff0060->00fff560->00fff620->
+84595 1 m_fr: 0028f6a8|0028f6a8->00fff6e0->00fff700->00fff720->
+84595 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff700|00fff700->00fff6e0->00fff620->
+m_fr: 00ff01a0|00ff01a0->00fff720->
+84596 0 m_fr: 0028f694|0028f694->00ff0060->00fff5c0->00fff680->
+84596 1 m_fr: 0028f6a8|0028f6a8->00fff740->00fff760->00fff780->
+84596 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff760|00fff760->00fff740->00fff680->
+m_fr: 00ff01a0|00ff01a0->00fff780->
+84597 0 m_fr: 0028f694|0028f694->00ff0060->00fff620->00fff6e0->
+84597 1 m_fr: 0028f6a8|0028f6a8->00fff7a0->00fff7c0->00fff7e0->
+84597 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff7c0|00fff7c0->00fff7a0->00fff6e0->
+m_fr: 00ff01a0|00ff01a0->00fff7e0->
+84598 0 m_fr: 0028f694|0028f694->00ff0060->00fff680->00fff740->
+84598 1 m_fr: 0028f6a8|0028f6a8->00fff800->00fff820->00fff840->
+84598 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff820|00fff820->00fff800->00fff740->
+m_fr: 00ff01a0|00ff01a0->00fff840->
+84599 0 m_fr: 0028f694|0028f694->00ff0060->00fff6e0->00fff7a0->
+84599 1 m_fr: 0028f6a8|0028f6a8->00fff860->00fff880->00fff8a0->
+84599 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff880|00fff880->00fff860->00fff7a0->
+m_fr: 00ff01a0|00ff01a0->00fff8a0->
+84600 0 m_fr: 0028f694|0028f694->00ff0060->00fff740->00fff800->
+84600 1 m_fr: 0028f6a8|0028f6a8->00fff8c0->00fff8e0->00fff900->
+84600 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff8e0|00fff8e0->00fff8c0->00fff800->
+m_fr: 00ff01a0|00ff01a0->00fff900->
+84601 0 m_fr: 0028f694|0028f694->00ff0060->00fff7a0->00fff860->
+84601 1 m_fr: 0028f6a8|0028f6a8->00fff920->00fff940->00fff960->
+84601 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff940|00fff940->00fff920->00fff860->
+m_fr: 00ff01a0|00ff01a0->00fff960->
+84602 0 m_fr: 0028f694|0028f694->00ff0060->00fff800->00fff8c0->
+84602 1 m_fr: 0028f6a8|0028f6a8->00fff980->00fff9a0->00fff9c0->
+84602 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fff9a0|00fff9a0->00fff980->00fff8c0->
+m_fr: 00ff01a0|00ff01a0->00fff9c0->
+84603 0 m_fr: 0028f694|0028f694->00ff0060->00fff860->00fff920->
+84603 1 m_fr: 0028f6a8|0028f6a8->00fff9e0->00fffa00->00fffa20->
+84603 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffa00|00fffa00->00fff9e0->00fff920->
+m_fr: 00ff01a0|00ff01a0->00fffa20->
+84604 0 m_fr: 0028f694|0028f694->00ff0060->00fff8c0->00fff980->
+84604 1 m_fr: 0028f6a8|0028f6a8->00fffa40->00fffa60->00fffa80->
+84604 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffa60|00fffa60->00fffa40->00fff980->
+m_fr: 00ff01a0|00ff01a0->00fffa80->
+84605 0 m_fr: 0028f694|0028f694->00ff0060->00fff920->00fff9e0->
+84605 1 m_fr: 0028f6a8|0028f6a8->00fffaa0->00fffac0->00fffae0->
+84605 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffac0|00fffac0->00fffaa0->00fff9e0->
+m_fr: 00ff01a0|00ff01a0->00fffae0->
+84606 0 m_fr: 0028f694|0028f694->00ff0060->00fff980->00fffa40->
+84606 1 m_fr: 0028f6a8|0028f6a8->00fffb00->00fffb20->00fffb40->
+84606 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffb20|00fffb20->00fffb00->00fffa40->
+m_fr: 00ff01a0|00ff01a0->00fffb40->
+84607 0 m_fr: 0028f694|0028f694->00ff0060->00fff9e0->00fffaa0->
+84607 1 m_fr: 0028f6a8|0028f6a8->00fffb60->00fffb80->00fffba0->
+84607 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffb80|00fffb80->00fffb60->00fffaa0->
+m_fr: 00ff01a0|00ff01a0->00fffba0->
+84608 0 m_fr: 0028f694|0028f694->00ff0060->00fffa40->00fffb00->
+84608 1 m_fr: 0028f6a8|0028f6a8->00fffbc0->00fffbe0->00fffc00->
+84608 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffbe0|00fffbe0->00fffbc0->00fffb00->
+m_fr: 00ff01a0|00ff01a0->00fffc00->
+84609 0 m_fr: 0028f694|0028f694->00ff0060->00fffaa0->00fffb60->
+84609 1 m_fr: 0028f6a8|0028f6a8->00fffc20->00fffc40->00fffc60->
+84609 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffc40|00fffc40->00fffc20->00fffb60->
+m_fr: 00ff01a0|00ff01a0->00fffc60->
+84610 0 m_fr: 0028f694|0028f694->00ff0060->00fffb00->00fffbc0->
+84610 1 m_fr: 0028f6a8|0028f6a8->00fffc80->00fffca0->00fffcc0->
+84610 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffca0|00fffca0->00fffc80->00fffbc0->
+m_fr: 00ff01a0|00ff01a0->00fffcc0->
+84611 0 m_fr: 0028f694|0028f694->00ff0060->00fffb60->00fffc20->
+84611 1 m_fr: 0028f6a8|0028f6a8->00fffce0->00fffd00->00fffd20->
+84611 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffd00|00fffd00->00fffce0->00fffc20->
+m_fr: 00ff01a0|00ff01a0->00fffd20->
+84612 0 m_fr: 0028f694|0028f694->00ff0060->00fffbc0->00fffc80->
+84612 1 m_fr: 0028f6a8|0028f6a8->00fffd40->00fffd60->00fffd80->
+84612 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffd60|00fffd60->00fffd40->00fffc80->
+m_fr: 00ff01a0|00ff01a0->00fffd80->
+84613 0 m_fr: 0028f694|0028f694->00ff0060->00fffc20->00fffce0->
+84613 1 m_fr: 0028f6a8|0028f6a8->00fffda0->00fffdc0->00fffde0->
+84613 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffdc0|00fffdc0->00fffda0->00fffce0->
+m_fr: 00ff01a0|00ff01a0->00fffde0->
+84614 0 m_fr: 0028f694|0028f694->00ff0060->00fffc80->00fffd40->
+84614 1 m_fr: 0028f6a8|0028f6a8->00fffe00->00fffe20->00fffe40->
+84614 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffe20|00fffe20->00fffe00->00fffd40->
+m_fr: 00ff01a0|00ff01a0->00fffe40->
+84615 0 m_fr: 0028f694|0028f694->00ff0060->00fffce0->00fffda0->
+84615 1 m_fr: 0028f6a8|0028f6a8->00fffe60->00fffe80->00fffea0->
+84615 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffe80|00fffe80->00fffe60->00fffda0->
+m_fr: 00ff01a0|00ff01a0->00fffea0->
+84616 0 m_fr: 0028f694|0028f694->00ff0060->00fffd40->00fffe00->
+84616 1 m_fr: 0028f6a8|0028f6a8->00fffec0->00fffee0->00ffff00->
+84616 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffee0|00fffee0->00fffec0->00fffe00->
+m_fr: 00ff01a0|00ff01a0->00ffff00->
+84617 0 m_fr: 0028f694|0028f694->00ff0060->00fffda0->00fffe60->
+84617 1 m_fr: 0028f6a8|0028f6a8->00ffff20->00ffff40->00ffff60->
+84617 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffff40|00ffff40->00ffff20->00fffe60->
+m_fr: 00ff01a0|00ff01a0->00ffff60->
+84618 0 m_fr: 0028f694|0028f694->00ff0060->00fffe00->00fffec0->
+84618 1 m_fr: 0028f6a8|0028f6a8->00ffff80->00ffffa0->00ffffc0->
+84618 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00ffffa0|00ffffa0->00ffff80->00fffec0->
+m_fr: 00ff01a0|00ff01a0->00ffffc0->
+84619 0 m_fr: 0028f694|0028f694->00ff0060->00fffe60->00ffff20->
+84619 1 m_fr: 0028f6a8|0028f6a8->00ffffe0->01000000->01000020->
+84619 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 01000000|01000000->00ffffe0->00ffff20->
+m_fr: 00ff01a0|00ff01a0->01000020->
+84620 0 m_fr: 0028f694|0028f694->00ff0060->00fffec0->00ffff80->
+84620 1 m_fr: 0028f6a8|0028f6a8->00fd01a0->00fe0160->01000060->
+84620 2 m_fr: 0028f6bc|0028f6bc->00ff01a0->
+m_fr: 00fffec0|00fffec0->00ff0060->00ffff20->
+m_fr: 00ff01a0|00ff01a0->00ffff80->
+84621 0 m_fr: 0028f694|0028f694->01000000->00fe0160->00fd01a0->
+84621 1 m_fr: 0028f6a8|0028f6a8->
+Process returned -1073741819 (0xC0000005)   execution time : 2736.913 s
+Press any key to continue.
